@@ -1,4 +1,4 @@
-# ⌚ Voltiquee Pakistan
+# <table><tr><td><img src="zeene1.jpeg" width="50" height="50" align="center"></td><td>&nbsp; Voltiquee Pakistan</td></tr></table>
 ### High-Performance Retail Experience for Modern Accessories
 
 **Voltiquee Pakistan** is a sleek, conversion-optimized e-commerce platform built for the modern shopper. Specializing in premium accessories, the application focuses on speed, a minimalist aesthetic, and a seamless "Add to Cart" journey.
