@@ -62,6 +62,6 @@ The stack is chosen for scalability and ease of maintenance.
 ---
 
 ## 👨‍💻 Developed By
-**Usman Ahmad** *Founder of Humanizer X | Full-Stack Architect* [Portfolio](https://usmaaan.site) | [LinkedIn](https://linkedin.com/in/your-profile)
+**Usman Ahmad** *Founder of Humanizer X | Full-Stack Architect* [Portfolio](https://usmaaan.site) | [LinkedIn](https://linkedin.com/in/usmaaanahmad)
 
 ---
